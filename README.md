@@ -11,4 +11,4 @@ reports, and hands-on test results.
 
 ## Comparisons
 
-- [thunderbit vs browse ai](articles/thunderbit vs browse ai/)
+- [Thunderbit vs Browse AI](articles/thunderbit-vs-browse-ai/)
