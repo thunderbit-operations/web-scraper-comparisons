@@ -11,4 +11,4 @@ reports, and hands-on test results.
 
 ## Comparisons
 
-- [Thunderbit vs Browse AI (2026)](articles/thunderbit-vs-browse-ai/)
+- [Thunderbit vs Browse AI](articles/thunderbit-vs-browse-ai/)
