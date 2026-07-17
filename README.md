@@ -9,6 +9,6 @@ Thunderbit has a commercial interest in the products discussed here.
 Each comparison separates vendor claims, public documentation, user
 reports, and hands-on test results.
 
-## Comparisons
+## Published Comparisons
 
-- [Thunderbit vs Browse AI](articles/thunderbit-vs-browse-ai/)
+Thunderbit vs Browse AI: An Evidence-Based Comparison (2026)
