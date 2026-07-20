@@ -9,3 +9,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Octoparse (2026): Deep Research Dossier](articles/thunderbit-vs-octoparse-comparison/research.md)
 - [Thunderbit vs ParseHub: I Tested Both on the Same Sites](articles/thunderbit-vs-parsehub-comparison/reserch.md)
 - [Thunderbit vs Apify: Strengths, Limits, and When to Use Each](articles/thunderbit-vs-apify-comparison/research.md)
+- [Thunderbit vs Firecrawl: How to Choose (Dev or No-Code)](articles/thunderbit-vs-firecrawl-comparison/research.md)
