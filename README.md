@@ -16,3 +16,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Jina AI: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-jina-ai/README.md)
 - [Thunderbit vs ScrapingBee: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingbee-comparison/README.md)
 - [Thunderbit vs Clay: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-clay-comparison/README.md)
+- [Thunderbit vs ScrapingDog: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingdog-comparison/README.md)
