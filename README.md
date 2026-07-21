@@ -15,3 +15,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs PhantomBuster: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-phantombuster-comparison/README.md)
 - [Thunderbit vs Jina AI: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-jina-ai/README.md)
 - [Thunderbit vs ScrapingBee: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingbee-comparison/README.md)
+- [Thunderbit vs Clay: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-clay-comparison/README.md)
