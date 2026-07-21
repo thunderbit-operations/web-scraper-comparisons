@@ -18,3 +18,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Clay: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-clay-comparison/README.md)
 - [Thunderbit vs ScrapingDog: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingdog-comparison/README.md)
 - [Thunderbit vs Instant Data Scraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-instant-data-scraper/README.md)
+- [Thunderbit vs Diffbot: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-diffbot-comparison/README.md)
