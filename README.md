@@ -19,3 +19,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs ScrapingDog: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingdog-comparison/README.md)
 - [Thunderbit vs Instant Data Scraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-instant-data-scraper/README.md)
 - [Thunderbit vs Diffbot: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-diffbot-comparison/README.md)
+- [Thunderbit vs Bright Data: Strengths, Costs, and Gotchas](articles/thunderbit-vs-bright-data/README.md)
