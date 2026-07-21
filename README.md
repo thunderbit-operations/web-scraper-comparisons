@@ -17,3 +17,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs ScrapingBee: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingbee-comparison/README.md)
 - [Thunderbit vs Clay: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-clay-comparison/README.md)
 - [Thunderbit vs ScrapingDog: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapingdog-comparison/README.md)
+- [Thunderbit vs Instant Data Scraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-instant-data-scraper/README.md)
