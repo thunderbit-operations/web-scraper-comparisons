@@ -23,3 +23,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Web Scraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-web-scraper-comparison-guide/README.md)
 - [Thunderbit vs Scrapy: Same Task, Two Very Different Tools](articles/thunderbit-vs-scrapy-comparison/README.md)
 - [Thunderbit vs Decodo: Proxy or AI Scraper? A Real Comparison](articles/thunderbit-vs-decodo-comparison/README.md)
+- [Thunderbit vs Axiom AI: What Worked, What Didn't (2026)](articles/thunderbit-vs-axiom-ai/README.md)
