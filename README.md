@@ -34,3 +34,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs AnyPicker: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-anypicker-comparison/README.md)
 - [Thunderbit vs Simplescraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-simplescraper-comparison/README.md)
 - [Thunderbit vs WebHarvy: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-webharvy-comparison/README.md)
+- [Thunderbit vs Nimble: Features, Pricing, and Best Fit in 2026](articles/thunderbit-vs-nimble-comparison/README.md)
