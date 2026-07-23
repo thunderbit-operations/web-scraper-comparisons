@@ -37,3 +37,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Nimble: Features, Pricing, and Best Fit in 2026](articles/thunderbit-vs-nimble-comparison/README.md)
 - [Thunderbit vs ScrapeStorm: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapestorm-comparison/README.md)
 - [Thunderbit vs Listly: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-listly-comparison/README.md)
+- [Thunderbit vs Crawlbase: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-crawlbase-comparison/README.md)
