@@ -30,3 +30,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Zyte: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-zyte-comparison/README.md)
 - [Thunderbit vs ZenRows: Features, Pricing, and Use Cases](articles/thunderbit-vs-zenrows-comparison/README.md)
 - [Thunderbit vs Data Miner: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-data-miner/README.md)
+- [Thunderbit vs Kadoa: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-kadoa-comparison/README.md)
