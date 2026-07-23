@@ -33,3 +33,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Kadoa: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-kadoa-comparison/README.md)
 - [Thunderbit vs AnyPicker: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-anypicker-comparison/README.md)
 - [Thunderbit vs Simplescraper: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-simplescraper-comparison/README.md)
+- [Thunderbit vs WebHarvy: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-webharvy-comparison/README.md)
