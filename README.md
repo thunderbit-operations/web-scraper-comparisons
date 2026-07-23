@@ -27,3 +27,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Scrapfly: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-scrapfly-comparison/README.md)
 - [Thunderbit vs Databar: Web Scraping or Data Enrichment for GTM Teams?](articles/thunderbit-vs-databar-comparison/README.md)
 - [Thunderbit vs TexAu: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-texau-comparison/README.md)
+- [Thunderbit vs Zyte: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-zyte-comparison/README.md)
