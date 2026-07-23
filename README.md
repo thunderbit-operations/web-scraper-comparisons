@@ -28,3 +28,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Databar: Web Scraping or Data Enrichment for GTM Teams?](articles/thunderbit-vs-databar-comparison/README.md)
 - [Thunderbit vs TexAu: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-texau-comparison/README.md)
 - [Thunderbit vs Zyte: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-zyte-comparison/README.md)
+- [Thunderbit vs ZenRows: Features, Pricing, and Use Cases](articles/thunderbit-vs-zenrows-comparison/README.md)
