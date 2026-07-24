@@ -41,3 +41,4 @@ maintained by the Thunderbit team.
 - [Thunderbit vs Agenty: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-agenty-comparison/README.md)
 - [Thunderbit vs Clura: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-clura-comparison/README.md)
 - [Thunderbit vs Webtable: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-webtable-comparison/README.md)
+- [Thunderbit vs ZenCrawl: An Evidence-Based Comparison (2026)](articles/thunderbit-vs-zencrawl-comparison/README.md)
